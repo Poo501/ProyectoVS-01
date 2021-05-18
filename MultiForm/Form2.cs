@@ -20,7 +20,7 @@ namespace MultiForm
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            label1.Text ="El usuario es Usuario: "+Form1.NombreUsuario;
+            label1.Text ="Logged in como Usuario: "+Form1.NombreUsuario;
         }
 
         private void label1_Click(object sender, EventArgs e)
